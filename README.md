@@ -1,7 +1,3 @@
-[TOC]
-
-
-
 # MySQL
 
 [01.MySQL基本操作](01.MySQL基本操作.md)<br>
